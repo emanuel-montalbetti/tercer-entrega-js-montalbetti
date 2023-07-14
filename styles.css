@@ -1,0 +1,32 @@
+body {
+        background-color: black;
+        color: white;
+    }
+
+    h1 {
+        color: red;
+    }
+
+    .product-container {
+        border: 1px solid red;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+
+    #cart {
+        border: 1px solid red;
+        padding: 10px;
+        margin-top: 20px;
+    }
+
+    #cart-items {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    #cart-total {
+        font-weight: bold;
+    }
+    .product-container img {
+        max-width: 200px; 
+    }
